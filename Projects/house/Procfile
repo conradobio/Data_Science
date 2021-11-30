@@ -1,0 +1,1 @@
+web: sh setup.:Xsh && streamlit run house_rocket1.py
